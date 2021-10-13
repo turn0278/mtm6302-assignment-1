@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(187, 168, 139);
+}
+
+#container{
+    background-color: white;
+}
+
+.lib {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:space-evenly;
+}
+
+.foottext {
+    color: grey;
+    text-align: center;
+    font-size: .5em;
+}
