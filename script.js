@@ -10,6 +10,8 @@ const $emoji = [127744]
 
     // x will run 100 times
 for (let x = 0; x < 100; x++) {
+
+    // Adding HTML dynamically
  $library.innerHTML += 
     
     // The iterator will be added by x adn then the emoji printed followed by the number beside the emoji
